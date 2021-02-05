@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T13:26:21.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" version="14.2.9" etag="NKmevMPekA_LVELAd1Vb" type="github"><diagram id="poYSOxEAUSxKogoUKOtg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-05T06:02:58.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="1c-0ilaF9Hmv8d3pdjoz" version="14.2.9" type="github">
+  <diagram id="poYSOxEAUSxKogoUKOtg" name="第 1 页">
+    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="193" width="51" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1" target="kWN1QXj9iMNBqHp17sWY-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="154" y="200.5" as="sourcePoint" />
+            <mxPoint x="326" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-3" value="用户登录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="42" width="110" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kWN1QXj9iMNBqHp17sWY-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="159" y="219" as="sourcePoint" />
+            <mxPoint x="323" y="216.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-7" value="医生管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="129" width="115" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1" target="kWN1QXj9iMNBqHp17sWY-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="241" as="sourcePoint" />
+            <mxPoint x="376" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-9" value="护士管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="211" width="109" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1" target="kWN1QXj9iMNBqHp17sWY-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="153" y="257" as="sourcePoint" />
+            <mxPoint x="431" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-12" value="住院查询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393.94" y="290" width="109.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;" edge="1" parent="1" target="kWN1QXj9iMNBqHp17sWY-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="148" y="281" as="sourcePoint" />
+            <mxPoint x="389" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWN1QXj9iMNBqHp17sWY-14" value="病床信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393.94" y="364" width="107.12" height="53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
